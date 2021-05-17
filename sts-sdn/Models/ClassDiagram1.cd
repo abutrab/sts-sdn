@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="sts_sdn.Models.ContactPersonModel">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAADAAAAAAAAAAAAQAAAAAAgCAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ContactPersonModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sts_sdn.Models.CustomerModel">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CustomerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sts_sdn.Models.InstallationModel">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\InstallationModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sts_sdn.Models.UserModel">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAg=</HashCode>
+      <FileName>Models\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sts_sdn.Models.VehicleModel">
+    <Position X="8.75" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="sts_sdn.Models.VehicleModel.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\VehicleModel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAABAIAAEAAAAAAAAAAAAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Models\VehicleModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sts_sdn.SimcardModel">
+    <Position X="9" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="sts_sdn.SimcardModel.Provider">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\SimcardModel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SimcardModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sts_sdn.Device">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAOAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
